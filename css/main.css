@@ -33,7 +33,6 @@ nav a{
     width: 15%;
     margin-left: 80%;
     padding-top: 2%;
-    text-align: center;
 }
 .banner .flex a{
     color: black;
@@ -41,4 +40,24 @@ nav a{
     text-decoration: none;
     text-transform: uppercase;
     padding: 10px;
+}
+.button{
+    text-align: center;
+}
+.item{
+    padding: 20px 20px;
+    box-shadow: 0px -3px 5px grey;
+}
+.item a{
+    color: black;
+    background-color: grey;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 100px;
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
 }
